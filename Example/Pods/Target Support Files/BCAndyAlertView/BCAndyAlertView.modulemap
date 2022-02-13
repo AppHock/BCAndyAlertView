@@ -1,0 +1,6 @@
+framework module BCAndyAlertView {
+  umbrella header "BCAndyAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}
